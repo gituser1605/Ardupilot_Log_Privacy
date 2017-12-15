@@ -1,0 +1,10 @@
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\bin\Debug\Ardupilot_Log_Privacy.exe.config
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\bin\Debug\Ardupilot_Log_Privacy.exe
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\bin\Debug\Ardupilot_Log_Privacy.pdb
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\obj\Debug\Ardupilot_Log_Privacy.csprojResolveAssemblyReference.cache
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\obj\Debug\Ardupilot_Log_Privacy.frmMain.resources
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\obj\Debug\Ardupilot_Log_Privacy.Properties.Resources.resources
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\obj\Debug\Ardupilot_Log_Privacy.csproj.GenerateResource.Cache
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\obj\Debug\Ardupilot_Log_Privacy.csproj.CoreCompileInputs.cache
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\obj\Debug\Ardupilot_Log_Privacy.exe
+D:\C# Projekte\Ardupilot_Log_Privacy\Ardupilot_Log_Privacy\obj\Debug\Ardupilot_Log_Privacy.pdb
